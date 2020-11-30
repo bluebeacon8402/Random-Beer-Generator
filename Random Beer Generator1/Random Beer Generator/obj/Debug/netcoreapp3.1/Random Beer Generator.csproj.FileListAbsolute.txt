@@ -1,0 +1,5 @@
+C:\Users\Anthe\Desktop\Repos\Random Beer\Random Beer Generator1\Random Beer Generator\obj\Debug\netcoreapp3.1\Random Beer Generator.csprojAssemblyReference.cache
+C:\Users\Anthe\Desktop\Repos\Random Beer\Random Beer Generator1\Random Beer Generator\obj\Debug\netcoreapp3.1\Random Beer Generator.AssemblyInfoInputs.cache
+C:\Users\Anthe\Desktop\Repos\Random Beer\Random Beer Generator1\Random Beer Generator\obj\Debug\netcoreapp3.1\Random Beer Generator.AssemblyInfo.cs
+C:\Users\Anthe\Desktop\Repos\Random Beer\Random Beer Generator1\Random Beer Generator\obj\Debug\netcoreapp3.1\Random Beer Generator.csproj.CoreCompileInputs.cache
+C:\Users\Anthe\Desktop\Repos\Random Beer\Random Beer Generator1\Random Beer Generator\bin\Debug\netcoreapp3.1\Random Beer Generator.exe

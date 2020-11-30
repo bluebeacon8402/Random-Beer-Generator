@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "AJoNdIz/1DZZIiHU06LVYN7XV6ScsZLlly1CnycItrytMQNV3tVHaZwx02IpuZdCjrYYmQ714UTU7ZKztpA4VQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Anthe\\Desktop\\Repos\\Random Beer\\Random Beer Generator1\\Random Beer Generator\\Random Beer Generator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Anthe\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
